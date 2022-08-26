@@ -1,0 +1,34 @@
+.form-control{
+    border: 1px solid #ff7c07;
+    /* width: 350px; */
+    /* min-width: ; */
+    max-width: 20rem;
+    margin-bottom: 5px;
+}
+.login-text{
+    color: #ff7c07;
+}
+
+
+.form-main-div{
+    /* border: 1px solid #ff7c07; */
+    position: relative;
+    /* max-width: 30rem;
+    min-width: 320px; */
+    /* width: ; */
+}
+.form-div{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.span{
+    color: #ff7c07;
+    text-decoration: none;
+}
+
+.img-col{
+    min-width: 320px;
+}
+

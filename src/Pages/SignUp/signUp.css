@@ -1,0 +1,29 @@
+.form-control{
+    border: 1px solid #ff7c07;
+    /* width: 350px; */
+    max-width: 20rem;    
+    margin-bottom: 5px;
+}
+
+.form-main-div{
+    /* border: 1px solid #ff7c07; */
+    position: relative;
+    /* max-width: 30rem;
+    min-width: 320px; */
+    /* width: ; */
+}
+.form-div{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.signIn{
+    color: #ff7c07;
+    text-decoration: none;
+}
+
+.img-col{
+    min-width: 320px;
+}
+
